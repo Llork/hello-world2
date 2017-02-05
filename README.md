@@ -1,2 +1,2 @@
-# hello-world2
+# hello-world2, a practice repository.
 first repository for DWA class
