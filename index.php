@@ -15,5 +15,7 @@
 
 <img src="/images/texas_trees.jpg">
 
+<p>Today is Monday February 6, 2017.</p>
+
 </body>
 </html>
